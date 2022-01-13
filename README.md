@@ -1,1 +1,1 @@
-# General Assembly - Data Science Fundamentals Course
+# General Assembly - Data Science Course
